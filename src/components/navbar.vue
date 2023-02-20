@@ -4,7 +4,7 @@
       <router-link to="/">
         <img
           src="../assets/logo-nobg.png"
-          width="180"
+          width="170"
           alt="Logo Thing main logo"
         />
       </router-link>
@@ -20,6 +20,7 @@
   text-align: center;
   margin: auto;
   justify-content: center;
+  height: 85px;
 }
 
 .logo-container {
