@@ -82,7 +82,9 @@
             >
               Add
             </button>
-            <span style="margin-left: 4%">Double click on task to edit</span>
+            <span style="margin-left: 4%; font-size: small"
+              >Double click on task to edit</span
+            >
           </div>
         </div>
       </div>
