@@ -16,6 +16,7 @@
     "vue": "^3.2.13",
     "vue-material-design-icons": "^5.2.0",
     "vue-router": "^4.1.6",
+    "vue-todo-app": "file:",
     "vuedraggable": "^4.1.0"
   },
   "devDependencies": {
